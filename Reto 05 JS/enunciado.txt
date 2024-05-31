@@ -1,0 +1,7 @@
+Titulo:
+resaltar texto seleccionado
+Descripción:
+para este speedtest se solicita crear un aplicativo que permita seleccionar un texto y que al presionar un botón "render" el texto seleccionado se resalte en amarillo y el color del texto se cambie a color rojo
+apoyo de explicación: video del resultado final
+Nivel de dificultad:
+fácil

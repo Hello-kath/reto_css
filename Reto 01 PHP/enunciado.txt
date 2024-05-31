@@ -1,0 +1,8 @@
+Titulo:
+Diferencia entre fechas
+Descripción:
+Para el siguiente speedtest se requiere un aplicativo qeu permita l usuario colocar dos fechas y al presionar el botón una salida muestre cuando días hay de diferenecia entre las dos fechas
+apoyo de explicación: video del resultado final
+Nivel de dificultad:
+Fácil
+

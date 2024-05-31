@@ -1,0 +1,8 @@
+Titulo:
+Estrella giratoria
+Descripción:
+Para el siguiente speedtest debe pintar una estrella de 5 puntas utilizando css y la propiedad clip-path, la estrella adicionalmente debe girar en su eje en cualquier sentido, debe apoyarse en el video de este ejercicio.
+clip-path permite crear una región de recorte que establece qué parte de un elemento debe mostrarse. Se muestran las partes que están dentro de la región, mientras que las que están fuera están ocultas.
+apoyo de explicación: video del resultado final
+Nivel de dificultad:
+Medio

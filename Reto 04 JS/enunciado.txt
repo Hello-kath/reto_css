@@ -1,0 +1,7 @@
+Titulo:
+Paint
+Descripción:
+para este speedtest se solicita crear un aplicativo que emule paint de microsoft, que es un aplicativo que permite hacer trazos dentro de un espacio determinado, el aplicativo debe tener la opción de escoger el color del que va a pintar el lapiz, botón para limpiar la pantalla y dos botones para guardar lo dibujado, uno en formato jpeg y otro en png.
+apoyo de explicación: video del resultado final
+Nivel de dificultad:
+Alto

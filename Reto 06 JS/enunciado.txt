@@ -1,0 +1,7 @@
+Titulo:
+contador de vocales
+Descripción:
+para este speedtest se solicita crear un aplicativo que permita contar las vocales que se encuentren en el texto escrito en el campo de texto.
+apoyo de explicación: video del resultado final
+Nivel de dificultad:
+fácil

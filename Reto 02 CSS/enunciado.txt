@@ -1,0 +1,8 @@
+Titulo:
+Slider spanding
+Descripción:
+Para el siguiente speedtest debe generar un slider tipo spanding que utilice los recursos dados, donde cada imagen debe ocupar cierto espacio y con un efecto optico vertical como en el video de apoyo, cuando el puntero pase sobre las imagenes ellas deberán espandise.
+apoyo de explicación: video del resultado final
+Nivel de dificultad:
+Medio
+
